@@ -1,2 +1,2 @@
 # battleships
-Practicing OOP with slightly more complicated game.
+Practicing OOP with slightly more complicated game. Still under development.
